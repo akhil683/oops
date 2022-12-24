@@ -1,5 +1,5 @@
 let gfNames = ["shriya", "sigma", "sharika", "priyanshi", "anjali", "preeti", "sakshi", "crush"]
-let bfNames = ["dikshant", "dushyant", "aditya", "pankaj", "gaurav", "yadav", "osho", "priyanshu", "akhil"]
+let bfNames = ["dikshant", "akhil", "dushyant", "aditya", "pankaj", "gaurav", "yadav", "osho", "priyanshu"]
 let gfLocation = document.getElementById("gfname");
 let bfLocation = document.getElementById("myname");
 
